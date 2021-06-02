@@ -15,7 +15,7 @@
 
 ---
 
-# Algorithm
+# Algorithm 👇
 - Viola Jones Algorithm
 
 > To run :running_man: this you need to install few things first into your system. :robot:
